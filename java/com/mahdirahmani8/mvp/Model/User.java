@@ -1,5 +1,14 @@
 package com.mahdirahmani8.mvp.Model;
 
+
+/*
+    this is user class 
+    User have name,pass,age and id
+    
+*/
+
+
+
 public class User {
 
     private String name,password,id;
