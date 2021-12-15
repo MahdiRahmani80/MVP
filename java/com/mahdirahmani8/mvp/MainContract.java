@@ -4,6 +4,10 @@ import com.mahdirahmani8.mvp.Model.User;
 
 import java.util.List;
 
+/* 
+    if you wont some Present in every Views you can create MainPresenter
+*/
+
 public interface MainContract {
 
     interface View {
