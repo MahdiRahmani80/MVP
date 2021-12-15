@@ -13,6 +13,11 @@ import com.mahdirahmani8.mvp.R;
 
 import java.util.List;
 
+/*
+    This class has VIEW and we should implemete MainContract.View
+    and create instace variable MainContract.Presenter for get user actions
+*/
+
 public class MainActivity extends AppCompatActivity implements MainContract.View {
 
     MainContract.Presenter presenter = new Presenter();
