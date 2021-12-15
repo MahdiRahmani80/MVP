@@ -1,5 +1,10 @@
 package com.mahdirahmani8.mvp.Model;
 
+/*
+    this is emulate to Date Base or Online get Data
+    actully this class way of get Data
+*/
+
 import java.util.ArrayList;
 import java.util.List;
 
